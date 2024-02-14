@@ -1,0 +1,17 @@
+streamlit
+google-generativeai
+python-dotenv
+pdf2image
+pandas
+openai
+langchain
+PyPDF2
+chromadb
+faiss-cpu
+langchain_google_genai
+transformers
+torch
+langchain
+llama-index
+markdown
+more-itertools
